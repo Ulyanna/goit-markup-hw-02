@@ -1,0 +1,204 @@
+body{
+    background-color: #F5F4FA;; 
+    color: #212121;
+}
+/*Шапка сайта*/
+.header{
+    background-color: #FFFFFF;
+}
+
+.logo {
+ color: #212121;
+}
+.logo-two {
+  color: #2196f3;
+}
+.navigation-list {
+    
+}
+.navigation-item {
+    color: #212121;
+}
+.navigation-item:hover {
+    color: #2196F3;
+}
+.navigation-item:focus {
+    color: #2196F3;
+}
+.contacts-block{
+
+}
+.contacts-mail{
+    color: #757575
+}
+.contacts-mail:hover{
+    color: #2196F3;
+}
+.contacts-mail:focus{
+    color: #2196F3;
+}
+.contacts-tel{
+    color: #757575
+}
+.contacts-tel:hover{
+    color: #2196F3;
+}
+.contacts-tel:focus{
+    color: #2196F3;
+}
+.hero{
+    background-color: #2F303A;
+}
+.hero-text{
+    color: #FFFFFF;
+}
+.hero-button{
+    background-color: #2196f3;
+    color: #FFFFFF;
+}
+.hero-button:hover{
+    background-color: #188CE8;
+    color: #FFFFFF;
+}
+.hero-button:focus{
+    background-color: #188CE8;
+    color: #FFFFFF;
+}
+/*Секция фильтры страницв Портфолио*/
+.filter-list{
+
+}
+.filter-button{
+    background-color: #F5F4FA;
+    color: #212121;
+}
+.filter-button:hover{
+    background-color: #2196F3;
+    color: #FFFFFF;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+.filter-button:focus{
+    background-color: #2196F3;
+    color: #FFFFFF;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+.filter-button:active{
+    background-color: #2196F3;
+    color: #FFFFFF;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+ }
+    /*Примеры Работ страница Портофолио*/
+    .examples-list{
+
+    }
+    .examples-item{
+        color: #212121;
+    }
+    .examples-item:hover{
+        color: #2196f3;
+    }
+    .examples-item:focus{
+        color: #2196f3;
+    }
+    .examples-class{
+        color: #757575;
+    }
+    /*Наши преимущества Главная*/
+    .benefits-list{
+
+    }
+    .benefits-item{
+        color: #212121;
+    }
+    .benefits-description{
+        color: #757575;
+    }
+    /*Чем мы занимаемся*/
+    .business-list{
+
+    }
+    /*Наша команда*/
+    .section-our-team{
+        background-color:  #E5E5E5;
+    }
+    .our-team-title{
+        color: #212121;
+    }
+    .our-team-list{
+
+    }
+    .our-team-name{
+        color: #212121;
+    }
+.our-team-position{
+    color: #757575;
+}
+
+
+
+    /*Футер*/
+.footer{
+    background-color: #2F303A;
+}
+.footer-logo{
+    color: #FFFFFF;
+}   
+.footer-logo-two{
+    color: #2196F3;
+} 
+.list{ 
+  list-style: none;
+}
+.text{
+    text-decoration: none;
+}
+.contacts-footer{
+
+}
+.contacts-footer-address{
+    color: #FFFFFF;
+}
+.contacts-footer-address:hover{
+    color: #2196f3;
+}
+.contacts-footer-address:focus{
+    color: #2196f3;
+}
+.contacts-footer-mail{
+    color: rgba(255, 255, 255, 0.6);
+}
+.contacts-footer-mail:hover{
+    color: #2196f3;
+}
+.contacts-footer-mail:focus{
+    color: #2196f3;
+}
+.contacts-footer-tel{
+    color: rgba(255, 255, 255, 0.6);
+}
+.contacts-footer-tel:hover{
+    color: #2196f3;
+}
+.contacts-footer-tel:focus{
+    color: #2196f3;
+}
+
+
+
+
+
+
+/* #2196F3; голубой цвет
+ #212121; цыет тёмный
+ #757575; номер телефона параграфы
+ #FFFFFF; белыйй цвет
+ rgba(255, 255, 255, 0.6); коетакты в футоре
+ #2F303A; бекграунд героя
+ #188CE8; кнопка ховер
+ #2F303A бекграунд футера*/
+
+
+
+
+ class="logo-two"
+ class="logo"
